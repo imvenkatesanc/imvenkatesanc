@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/imvenkatesanc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Annamalai345" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/imvenkatesanc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annamalai923" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/it-venkatesan-c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annamalai923" height="30" width="40" /></a>
 <a href="https://www.instagram.com/imvenkatesanc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="craziest_king_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/venkatesanit2020" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="annshiv" height="30" width="40" /></a>
 <a href="https://leetcode.com/imvenkatesanc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="annshiv" height="30" width="40" /></a>
